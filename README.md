@@ -46,16 +46,21 @@ NumPy V/S Python List
     Highly optimized for numerical computations, offering faster performance due to underlying C implementation.
     Python List:
     Slower for numerical operations due to the overhead of Python's dynamic typing and interpreted nature.
-    3. Functionality:
+
+3. Functionality:
     NumPy Array: Provides a wide range of mathematical functions and operations optimized for arrays, such as element-wise calculations, linear algebra, and statistical analysis.
     Python List: Offers basic operations like adding, removing, and accessing elements.
-    4. Memory Management:
+
+4. Memory Management:
     NumPy Array: More efficient memory management as elements are stored in contiguous memory locations.
     Python List: Less efficient memory management as elements can be scattered in memory.
-    5. Mutability:
+
+5. Mutability:
     NumPy Array: Elements can be modified (mutable) but the size of the array is fixed.
     Python List: Elements can be modified (mutable) and the size of the list can be changed dynamically.
-    In summary:
+
+
+In summary:
     Use NumPy arrays for numerical computations and scientific computing, where speed and efficiency are crucial.
     Use Python lists for general-purpose tasks that require flexibility in storing different data types.
   
