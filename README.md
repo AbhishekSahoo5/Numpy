@@ -36,7 +36,7 @@ Importance of NumPy in Python
 
 NumPy V/S Python List
 -----------------------
-    NumPy arrays and Python lists are both used to store collections of data, but they have key differences:
+NumPy arrays and Python lists are both used to store collections of data, but they have key differences:
   1. Data Type:
     NumPy Array: Stores elements of the same data type, making operations more efficient.
     Python List: Can store elements of different data types, providing flexibility.
